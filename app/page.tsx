@@ -108,11 +108,6 @@ export default function Home() {
               </div>
 
               <div className={styles.detailGroup}>
-                <h3>希望条件</h3>
-                <div className={styles.detailTags}>
-                  <span className={styles.detailTag}>誠実なご連絡</span>
-                  <span className={styles.detailTag}>十分な対話の上での同意</span>
-                  <span className={styles.detailTag}>互いの状況を理解了の上での下一步</span>
                 </div>
               </div>
 
