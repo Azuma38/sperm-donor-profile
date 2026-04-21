@@ -198,7 +198,6 @@ export default function Home() {
         <div className={styles.sectionInner}>
           <span className={styles.sectionLabel}>Process</span>
           <h2>ご依頼からお会いするまでの流れ</h2>
-          <p className={styles.sectionIntro}>あなたの不安を軽減 않도록、ステップごとに説明します。</p>
 
           <div className={styles.processSteps}>
             <div className={styles.processStep}>
