@@ -83,8 +83,8 @@ export default function Home() {
               <div className={styles.detailGroup}>
                 <h3>学歴・経歴</h3>
                 <div className={styles.detailTags}>
-                  <span className={styles.detailTag}>学歴: 一流大学卒業</span>
-                  <span className={styles.detailTag}>職業: chitz / エンジニア</span>
+                  <span className={styles.detailTag}>学歴: 大学卒</span>
+                  <span className={styles.detailTag}>職業: 主にAIコンサルタント</span>
                 </div>
               </div>
 
