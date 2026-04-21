@@ -24,7 +24,7 @@ export default function Home() {
             <div className={styles.valueCard}>
               <div className={styles.valueIcon}>❤️</div>
               <h3>誠実な意思疎通</h3>
-              <p>对方の希望やご質問に丁寧にお答えし、誤解のないように十分な情報をお届けします。</p>
+              <p>お互いに納得感を持って進められるよう、誠実さを大事にしています</p>
             </div>
             <div className={styles.valueCard}>
               <div className={styles.valueIcon}>🔍</div>
