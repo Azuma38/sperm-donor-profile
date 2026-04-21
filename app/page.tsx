@@ -116,7 +116,7 @@ export default function Home() {
       <section className={styles.conditions}>
         <div className={styles.sectionInner}>
           <span className={styles.sectionLabel}>Requirements</span>
-          <h2>女方への条件</h2>
+          <h2>ゆうまが精子を提供する意志を持てる、女性の条件 (必須)</h2>
           <p className={styles.sectionIntro}>
             ゆうまが精子を提供する意志を持てる女方のための条件です。
             これらを守れる方のみのお問い合わせをお願いします。
