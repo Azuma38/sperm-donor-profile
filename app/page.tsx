@@ -145,7 +145,7 @@ export default function Home() {
             <div className={styles.conditionItem}>
               <div className={styles.conditionCheck}>✓</div>
               <div className={styles.conditionText}>
-                0歳分から、毎日顔を見る度に
+                生後直ぐに、毎日顔を見る度に
                 「あなたならできる！」「あなたは天才なのよ！」
                 とアファメーションの声かけを習慣として実行できる方
               </div>
