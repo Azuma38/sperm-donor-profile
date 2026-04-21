@@ -104,15 +104,28 @@ export default function Home() {
                 <div className={styles.detailTags}>
                   <span className={styles.detailTag}>性格: 穏やか・誠実</span>
                   <span className={styles.detailTag}>趣味: ブログでの情報発信、耳読書、仕事</span>
+                  <span className={styles.detailTag}>生活习惯: 規則的</span>
+                </div>
+              </div>
+
+              <div className={styles.detailGroup}>
+                <h3>希望条件</h3>
+                <div className={styles.detailTags}>
+                  <span className={styles.detailTag}>誠実なご連絡</span>
+                  <span className={styles.detailTag}>十分な対話の上での同意</span>
+                  <span className={styles.detailTag}>互いの状況を理解了の上での下一步</span>
                 </div>
               </div>
 
               <div className={styles.profileMessage}>
                 <h3>提供者からのメッセージ</h3>
                 <p>
-                  報酬を受け取って提供するとはいえ、僕も感情・個性・心をもった一人の人間です。自分の遺伝子を無条件に誰にでも渡すということには抵抗があります。手前味噌ですが、自分でも僕はレアな人と思っています。以下に僕の心がOKと言っている条件を列挙しましたので、しっかり全て確認し、「私は当てはまる」と判断された方はをお願い致します。特にタイミング法での提供を希望されるの方で、僕がお会いした際に少しでも性的に前向きになれるかどうか、確認させていただきます。
+                <p>
+                  報酬を受け取って提供するとはいえ、僕も感情・個性・心をもった一人の人間です。自分の遺伝子を無条件に誰にでも渡すということには抵抗があります。手前味噌ですが、自分でも僕はレアな人と思っています。以下に僕の心がOKと言っている条件を列挙しましたので、全て確認し、「私は当てはまる」と判断された方は★
                 </p>
-            </div>
+                </p>
+              </div>
+              </div>
           </div>
         </div>
       </section>
@@ -145,7 +158,7 @@ export default function Home() {
             </div>
             <div className={styles.conditionItem}>
               <div className={styles.conditionCheck}>OK</div>
-              <div className={styles.conditionText}>普段からお清洁に気を使っている方</div>
+              <div className={styles.conditionText}>普段からお清潔に気を使っている方</div>
             </div>
             <div className={styles.conditionItem}>
               <div className={styles.conditionCheck}>OK</div>
@@ -211,7 +224,7 @@ export default function Home() {
         <div className={styles.sectionInner}>
           <span className={styles.sectionLabel}>Process</span>
           <h2>ご連絡から交付までの流れ</h2>
-          <p className={styles.sectionIntro}>您的不安を軽減 않도록、ステップごとに説明します。</p>
+          <p className={styles.sectionIntro}>あなたの不安を軽減 않도록、ステップごとに説明します。</p>
 
           <div className={styles.processSteps}>
             <div className={styles.processStep}>
@@ -239,7 +252,7 @@ export default function Home() {
               <div className={styles.stepNumber}>4</div>
               <div className={styles.stepContent}>
                 <h3>双方の準備・確認</h3>
-                <p>双方的合意形成を優先しながら、次のステップ進みます。您的ペースを優先します。</p>
+                <p>双方的合意形成を優先しながら、次のステップ進みます。あなたのペースを優先します。</p>
               </div>
             </div>
           </div>
@@ -262,7 +275,7 @@ export default function Home() {
             </details>
             <details className={styles.faqItem}>
               <summary>匿名での提供は可能ですか？</summary>
-              <p>はい、匿名での提供をご希望の場合は、的身份情報を保密的に送ることもできます。詳細な条件についてはお気に入联系方式ください。</p>
+              <p>はい、匿名での提供をご希望の場合は、的身分情報を保密的に送ることもできます。詳細な条件についてはお気に入联系方式ください。</p>
             </details>
             <details className={styles.faqItem}>
               <summary>報酬はどれくらいですか？</summary>
