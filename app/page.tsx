@@ -225,7 +225,7 @@ export default function Home() {
               <div className={styles.stepNumber}>4</div>
               <div className={styles.stepContent}>
                 <h3>精子提供のためにお会いする (2回目)</h3>
-                <p>双方的合意形成を優先しながら、次のステップ進みます。あなたのペースを優先します。</p>
+                <p>ご依頼いただいた方の受精タイミングに合わせ、シリンジ法またはタイミング法実施のためにお会いします。</p>
               </div>
             </div>
           </div>
