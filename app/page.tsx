@@ -187,7 +187,7 @@ export default function Home() {
             </div>
             <div className={styles.checkpointItem}>
               <div className={styles.checkpointIcon}>3</div>
-              <p>2回目にお会いする場合は、性病検査の結果表ご確認</p>
+              <p>2回目にお会いする場合は、性病検査の結果表ご確認 (＊提供は2回目以降に繋がった場合となります)</p>
             </div>
           </div>
         </div>
