@@ -136,7 +136,7 @@ export default function Home() {
             </div>
             <div className={styles.conditionItem}>
               <div className={styles.conditionCheck}>✓</div>
-              <div className={styles.conditionText}>授かった子を経済的に支えていく意志のある四方</div>
+              <div className={styles.conditionText}>授かった子を経済的に支えていく意志のある方</div>
             </div>
             <div className={styles.conditionItem}>
               <div className={styles.conditionCheck}>✓</div>
