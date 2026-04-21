@@ -72,7 +72,7 @@ export default function Home() {
 
             <div className={styles.profileDetails}>
               <div className={styles.detailGroup}>
-                <h3>基本信息</h3>
+                <h3>基本情報</h3>
                 <div className={styles.detailTags}>
                   <span className={styles.detailTag}>年齢: 30代後半</span>
                   <span className={styles.detailTag}>血液型: A型</span>
