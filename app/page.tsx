@@ -217,7 +217,7 @@ export default function Home() {
             <div className={styles.processStep}>
               <div className={styles.stepNumber}>3</div>
               <div className={styles.stepContent}>
-                <h3>カジュアル面接</h3>
+                <h3>カフェなどで軽く顔合わせし、ご本人確認</h3>
                 <p>coffee shop など公共の場所で、お互いの希望や条件についてお話しましょう。</p>
               </div>
             </div>
