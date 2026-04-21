@@ -108,6 +108,11 @@ export default function Home() {
               </div>
 
               <div className={styles.detailGroup}>
+                <h3>希望条件</h3>
+                <div className={styles.detailTags}>
+                  <span className={styles.detailTag}>誠実なご連絡</span>
+                  <span className={styles.detailTag}>十分な対話の上での同意</span>
+                  <span className={styles.detailTag}>互いの状況を理解了の上での下一步</span>
                 </div>
               </div>
 
@@ -115,6 +120,7 @@ export default function Home() {
                 <h3>提供者からのメッセージ</h3>
                 <p>報酬を受け取って提供するとはいえ、僕も感情・個性・心をもった一人の人間です。自分の遺伝子を無条件に誰にでも渡すということには抵抗があります。手前味噌ですが、自分でも僕はレアな人と思っています。以下に僕の心がOKと言っている条件を列挙しましたので、しっかり全て確認し、「私は当てはまる」と判断された方は★
                 </p>
+                <p>特にタイミング法での提供をご希望される方で，娃</p>
               </div>
             </div>
           </div>
