@@ -104,7 +104,6 @@ export default function Home() {
                 <div className={styles.detailTags}>
                   <span className={styles.detailTag}>性格: 穏やか・誠実</span>
                   <span className={styles.detailTag}>趣味: ブログでの情報発信、耳読書、仕事</span>
-                  <span className={styles.detailTag}>生活习惯: 規則的</span>
                 </div>
               </div>
 
