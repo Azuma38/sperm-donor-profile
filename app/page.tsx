@@ -6,7 +6,7 @@ export default function Home() {
 
       {/* ── Hero ── */}
       <section className={styles.hero}>
-        <h1>誠実な精子提供で、あなたの希望を叶えます</h1>
+        <h1>誠実な精子提供で<br />あなたの希望を叶えます</h1>
         <p className={styles.heroSub}>ゆうまが授ける方と出会うための入り口</p>
         <div className={styles.heroActions}>
           <a href="#profile" className={styles.btnPrimary}>プロフィールを見る</a>
