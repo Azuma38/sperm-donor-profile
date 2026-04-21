@@ -9,7 +9,7 @@ export default function Home() {
         <div className={styles.heroBadge}>精子提供のお願い</div>
         <h1>
           誠実な精子提供で<br />
-          あなたの家族之忧联系
+          あなたの希望を叶えます
         </h1>
         <p className={styles.heroSub}>
           価値観の合う方と誠実に出会い、<br />
