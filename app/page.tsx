@@ -19,9 +19,7 @@ export default function Home() {
         <div className={styles.sectionInner}>
           <span className={styles.sectionLabel}>About this service</span>
           <h2>精子提供に対する姿勢</h2>
-          <p className={styles.sectionIntro}>
-            ただの提供ではなく、未来べきの関係性も考えた誠実な対応を大切にしています。
-          </p>
+          <p className={styles.sectionIntro}>精子提供に対する姿勢について</p>
           <div className={styles.valuesGrid}>
             <div className={styles.valueCard}>
               <div className={styles.valueIcon}>❤️</div>
