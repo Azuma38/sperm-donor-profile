@@ -123,27 +123,27 @@ export default function Home() {
 
           <div className={styles.conditionList}>
             <div className={styles.conditionItem}>
-              <div className={styles.conditionCheck}>OK</div>
+              <span style="color: green; font-size: 1.2em;">✓</span>
               <div className={styles.conditionText}>36歳以下の方</div>
             </div>
             <div className={styles.conditionItem}>
-              <div className={styles.conditionCheck}>OK</div>
+              <span style="color: green; font-size: 1.2em;">✓</span>
               <div className={styles.conditionText}>健康と体系に気を使った生活をしてきた方</div>
             </div>
             <div className={styles.conditionItem}>
-              <div className={styles.conditionCheck}>OK</div>
+              <span style="color: green; font-size: 1.2em;">✓</span>
               <div className={styles.conditionText}>普段からお清潔に気を使っている方</div>
             </div>
             <div className={styles.conditionItem}>
-              <div className={styles.conditionCheck}>OK</div>
+              <span style="color: green; font-size: 1.2em;">✓</span>
               <div className={styles.conditionText}>授かった子を経済的に支えていく意志のある四方</div>
             </div>
             <div className={styles.conditionItem}>
-              <div className={styles.conditionCheck}>OK</div>
+              <span style="color: green; font-size: 1.2em;">✓</span>
               <div className={styles.conditionText}>お子さんが「やりたい」ということを自分の人生を賭けて也应援する意志を持てる方</div>
             </div>
             <div className={styles.conditionItem}>
-              <div className={styles.conditionCheck}>OK</div>
+              <span style="color: green; font-size: 1.2em;">✓</span>
               <div className={styles.conditionText}>
                 0歳分から、毎日顔を見る度に
                 「あなたならできる！」「あなたは天才なのよ！」
@@ -151,14 +151,14 @@ export default function Home() {
               </div>
             </div>
             <div className={styles.conditionItem}>
-              <div className={styles.conditionCheck}>OK</div>
+              <span style="color: green; font-size: 1.2em;">✓</span>
               <div className={styles.conditionText}>
                 お子さんが「こうしたい」という意志に対して
                 【常に意識的に肯定し、肯定の言葉がけをする】と約束できる方
               </div>
             </div>
             <div className={styles.conditionItem}>
-              <div className={styles.conditionCheck}>OK</div>
+              <span style="color: green; font-size: 1.2em;">✓</span>
               <div className={styles.conditionText}>
                 思春期に自我が強まった際に、お子さんが悩んでいる歲は、
                 お渡しする西洋占星術のホロスコープ情報に立ち返り、
