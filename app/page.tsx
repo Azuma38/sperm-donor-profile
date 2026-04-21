@@ -6,7 +6,6 @@ export default function Home() {
 
       {/* ── Hero ── */}
       <section className={styles.hero}>
-        <div className={styles.heroBadge}>精子提供のお願い</div>
         <h1>
           誠実な精子提供で<br />
           あなたの希望を叶えます
