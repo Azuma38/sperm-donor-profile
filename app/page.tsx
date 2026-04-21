@@ -239,6 +239,7 @@ export default function Home() {
               <div className={styles.stepContent}>
                 <h3>ご出産後、ゆうまにお子様の出生情報をご提出랍니다 (出生住所: 市町村まで + 時刻：分まで)</h3>
               </div>
+                <p>お名前はニックネームでGERAKません。ご提出いただいた情報を元に、重要な西洋占星術情報をプレゼントいたします。</p>
             </div>
           </div>
         </div>
