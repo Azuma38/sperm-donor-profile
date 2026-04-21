@@ -74,11 +74,9 @@ export default function Home() {
               <div className={styles.detailGroup}>
                 <h3>基本情報</h3>
                 <div className={styles.detailTags}>
-                  <span className={styles.detailTag}>年齢: 30代後半</span>
-                  <span className={styles.detailTag}>血液型: A型</span>
-                  <span className={styles.detailTag}>身長: 175cm</span>
-                  <span className={styles.detailTag}>体重: 70kg</span>
-                  <span className={styles.detailTag}>体型: 普通</span>
+                  <span className={styles.detailTag}>年齢: 34歳</span>
+                  <span className={styles.detailTag}>身長: 171cm</span>
+                  <span className={styles.detailTag}>体型: スタイルよし</span>
                 </div>
               </div>
 
