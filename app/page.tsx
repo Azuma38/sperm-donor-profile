@@ -228,19 +228,19 @@ export default function Home() {
                 <p>ご依頼いただいた方の受精タイミングに合わせ、シリンジ法またはタイミング法実施のためにお会いします。</p>
               </div>
             </div>
-          </div>
             <div className={styles.processStep}>
               <div className={styles.stepNumber}>5</div>
               <div className={styles.stepContent}>
                 <h3>2回目で受精とならなかった場合、3回目と予定を立てることになります。</h3>
               </div>
+            </div>
             <div className={styles.processStep}>
               <div className={styles.stepNumber}>6</div>
               <div className={styles.stepContent}>
                 <h3>ご出産後、ゆうまにお子様の出生情報をご提出 바랍니다 (出生住所: 市町村まで + 時刻：分まで)</h3>
               </div>
             </div>
-            </div>
+          </div>
         </div>
       </section>
 
