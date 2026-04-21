@@ -6,7 +6,7 @@ export default function Home() {
 
       {/* ── Hero ── */}
       <section className={styles.hero}>
-        <h1>誠実な精子提供で<br />あなたの希望を叶えます</h1>
+        <h1>誠実な精子提供であなたの希望を叶えます</h1>
         <p className={styles.heroSub}>ゆうまが授ける方と出会うための入り口</p>
         <div className={styles.heroActions}>
           <a href="#profile" className={styles.btnPrimary}>プロフィールを見る</a>
@@ -19,7 +19,6 @@ export default function Home() {
         <div className={styles.sectionInner}>
           <span className={styles.sectionLabel}>About this service</span>
           <h2>精子提供に対する姿勢</h2>
-          <p className={styles.sectionIntro}></p>
           <div className={styles.valuesGrid}>
             <div className={styles.valueCard}>
               <div className={styles.valueIcon}>❤️</div>
@@ -46,7 +45,11 @@ export default function Home() {
           <span className={styles.sectionLabel}>Donor Profile</span>
           <h2>提供者プロフィール</h2>
           <p className={styles.sectionIntro}>
-            纯情な恋愛感情で、これまで6人の方と交際してきました。ただ、僕の幼少期の家庭環境や育ちで、結婚・出産・子育てに興味を持てない大人に育ちました。交際してきた相手はどなたも結婚、出産、子育てと将来を描く相次で、僕は申し訳ない気持ちでお別れしてきました。恋愛は好きなのですが、「特定の方と生涯をずっと共に過ごす」、というのが僕の育った個性上、合わないようなのです、僕は今年で34歳になりました。10代の頃から、目指していた職業柄社会に重きをおいて大人になったため、30代半ばになっても性欲は相変わらずあります。ただ、上記の通りで、今からマッチングアプリや婚活アプリを使って異性と出会う気には、抱歉なさからなれずにいました。そんな中、ネットで精子提供の選択肢を知りました。健康体や僕の個性が女性のニーズと合うこと、日本の少子化の現状、これらを熟考して、「役に立てる女性がいるなら」と、提供を始めました。
+            純情な恋愛感情で目前为止6人の方と交際してきました。ただ、僕の幼少期(以下に詳細記述)の家庭環境や育ちで、結婚・出産・子育てに興味を持てない大人に育ちました。交際してきた相手はどなたも結婚、出産、子育てと将来を描く人々で(普通ですかね笑)、僕は申し訳ない気持ちでお別れしてきました。恋愛は好きなのですが、「特定の方と生涯をずっと共に過ごす」、というのが僕の育った個性上、合わないようなのです。
+
+            僕は今年で34歳になりました。10代の頃から、目指していた職業柄に注意して大人になったため、30代半ばになっても性欲は相変わらずあります。ただ、上記の通りで、今からマッチングアプリや婚活アプリを使って異性と出会う気には、申し訳なさから、なれずにいました。
+
+            そんな中、ネットで精子提供の選択肢を知りました。健康体や僕の個性が女性のニーズと合うこと、日本の少子化の現状、これらを熟考して、「役に立てる女性がいるなら」と、提供を始めました。
           </p>
 
           <div className={styles.profileLayout}>
@@ -56,7 +59,7 @@ export default function Home() {
                 <small>写真はありません</small>
               </div>
               <p className={styles.photoNote}>
-                ※ 顔写真のご用意はありません。<br />※ 詳細なプロフィール情報をお届けします。
+                ※ 顔写真のご用意はありません。※ 詳細なプロフィール情報をお届けします。
               </p>
             </div>
 
@@ -113,7 +116,7 @@ export default function Home() {
               <div className={styles.profileMessage}>
                 <h3>提供者からのメッセージ</h3>
                 <p>
-                  您的子供が健やかに生まれることを願い、精子提供小小的と考えています。
+                  お子さんが健やかに生まれることを願い、精子提供小小的と考えています。
                   联系方式いただいた方には、詳細なプロフィール・健康証明書・传染病検査結果的所有资料をご共有します。
                   您的不安やご質問に耳を傾け、十分な情報をお伝えした上で、一緒に最佳の形を探っていきたいと考えています。
                 </p>
@@ -129,33 +132,33 @@ export default function Home() {
           <span className={styles.sectionLabel}>Requirements</span>
           <h2>女方への条件</h2>
           <p className={styles.sectionIntro}>
-            ゆうまが精子を提供する意志を持てる女方のための条件です。<br />
+            ゆうまが精子を提供する意志を持てる女方のための条件です。
             これらを守れる方のみのお問い合わせをお願いします。
           </p>
 
           <div className={styles.conditionNote}>
             <p>
               ゆうまは、提供した子が最善の形で成長してくれることを深く願っています。
-              ただ子を産むことではなく、その子の人生を支え、見守っていく意志がある方に雰囲を提供します。
+              ただ子を産むことではなく、その子の人生を支え、見守っていく意志がある方に を提供します。
             </p>
           </div>
 
           <div className={styles.conditionList}>
             <div className={styles.conditionItem}>
               <div className={styles.conditionCheck}>OK</div>
-              <div className={styles.conditionText}><strong>36歳以下</strong>の方</div>
+              <div className={styles.conditionText}>36歳以下の方</div>
             </div>
             <div className={styles.conditionItem}>
               <div className={styles.conditionCheck}>OK</div>
-              <div className={styles.conditionText}><strong>健康と体系に気を使った生活</strong>をしてきた方</div>
+              <div className={styles.conditionText}>健康と体系に気を使った生活をしてきた方</div>
             </div>
             <div className={styles.conditionItem}>
               <div className={styles.conditionCheck}>OK</div>
-              <div className={styles.conditionText}><strong>普段からお清洁に気を使っている</strong>方</div>
+              <div className={styles.conditionText}>普段からお清洁に気を使っている方</div>
             </div>
             <div className={styles.conditionItem}>
               <div className={styles.conditionCheck}>OK</div>
-              <div className={styles.conditionText}>授かった子を<strong>経済的に支えていく意志</strong>のある四方</div>
+              <div className={styles.conditionText}>授かった子を経済的に支えていく意志のある四方</div>
             </div>
             <div className={styles.conditionItem}>
               <div className={styles.conditionCheck}>OK</div>
@@ -164,24 +167,24 @@ export default function Home() {
             <div className={styles.conditionItem}>
               <div className={styles.conditionCheck}>OK</div>
               <div className={styles.conditionText}>
-                0歳分から、毎日顔を見る度に<br />
-                <em>「あなたならできる！」「あなたは天才なのよ！」</em><br />
-                とアファメーションの声かけを<strong>習慣として実行できる</strong>方
+                0歳分から、毎日顔を見る度に
+                「あなたならできる！」「あなたは天才なのよ！」
+                とアファメーションの声かけを習慣として実行できる方
               </div>
             </div>
             <div className={styles.conditionItem}>
               <div className={styles.conditionCheck}>OK</div>
               <div className={styles.conditionText}>
-                お子さんが「こうしたい」という意志に対して<br />
-                <strong>【常に意識的に肯定し、肯定の言葉がけをする】</strong>と約束できる方
+                お子さんが「こうしたい」という意志に対して
+                【常に意識的に肯定し、肯定の言葉がけをする】と約束できる方
               </div>
             </div>
             <div className={styles.conditionItem}>
               <div className={styles.conditionCheck}>OK</div>
               <div className={styles.conditionText}>
-                思春期に自我が強まった際に、お子さんが悩んでいる歲は、<br />
-                お渡しする<strong>西洋占星術のホロスコープ情報</strong>に立ち返り、<br />
-                自分の投影ではなく、<strong>真に一人の人間の心を理解しようと努める</strong>と約束できる方
+                思春期に自我が強まった際に、お子さんが悩んでいる歲は、
+                お渡しする西洋占星術のホロスコープ情報に立ち返り、
+                自分の投影ではなく、真に一人の人間の心を理解しようと努めると約束できる方
               </div>
             </div>
           </div>
@@ -280,9 +283,9 @@ export default function Home() {
 
       {/* ── CTA ── */}
       <section className={styles.cta} id="contact">
-        <h2>まずは気軽にお問い合わせください</h2>
+        <h2>まずは不大的字的个字 </h2>
         <p>
-          您的不安やご希望 нас第一时间でお联社联系ください。<br />初步的なご質問でも構いません。
+          最初的不安やご希望 нас第一时间でお联社联系ください。初步的なご質問でも構いません。
         </p>
         <a href="https://docs.google.com/forms/d/e/1FAIpQLSf EXAMPLE/form/start" target="_blank" rel="noopener noreferrer" className={styles.btnWhite}>
           お問い合わせフォームへ
