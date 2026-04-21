@@ -559,3 +559,10 @@
   color: #4A3728;
   line-height: 1.7;
 }
+
+
+/* ─── Profile Intro (full width) ─── */
+.profile .sectionInner .sectionIntro {
+  max-width: 100%;
+  text-align: left;
+}
