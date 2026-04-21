@@ -183,7 +183,7 @@ export default function Home() {
             </div>
             <div className={styles.checkpointItem}>
               <div className={styles.checkpointIcon}>2</div>
-              <p>タイミング法の場合、ゆうまがその気になれる对方かどうか</p>
+              <p>タイミング法の場合、ゆうまがその気になれる方かどうか</p>
             </div>
             <div className={styles.checkpointItem}>
               <div className={styles.checkpointIcon}>3</div>
