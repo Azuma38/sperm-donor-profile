@@ -237,7 +237,7 @@ export default function Home() {
             <div className={styles.processStep}>
               <div className={styles.stepNumber}>6</div> <!-- deploy-test-1 -->
               <div className={styles.stepContent}>
-                <h3>ご出産後、ゆうまにお子様の出生情報をご提出ください (出生住所: 市町村まで + 時刻：分まで)</h3>
+                <h3>ご出産後、ゆうまにお子様の出生情報をご提出 (出生住所: 市町村まで + 時刻：分まで)</h3>
               </div> <!-- deploy-test-1 -->
                 <p>お名前はニックネームでかまいません。ご提出いただいた情報を元に、重要な西洋占星術情報をプレゼントいたします。</p>
             </div> <!-- deploy-test-1 -->
