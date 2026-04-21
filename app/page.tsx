@@ -212,7 +212,7 @@ export default function Home() {
               <div className={styles.stepContent}>
                 <h3>フォーム内容を確認し、ゆうまがあなたへご連絡</h3>
                 <p>フォーム内容を確認し、「必須条件を満たす」とまず僕が確認できた方へのみ、ご提出いただいた LINE ID へ僕からご連絡します。</p>
-                <p>フォーム内容を確認し、「必須条件を満たす」とまず僕が確認できた方へのみ、ご提出いただいた LINE ID へ僕からご連絡します。</p>
+              </div>
             </div>
             <div className={styles.processStep}>
               <div className={styles.stepNumber}>3</div>
