@@ -34,7 +34,7 @@ export default function Home() {
             <div className={styles.valueCard}>
               <div className={styles.valueIcon}>🛡️</div>
               <h3>安全・安心の確認</h3>
-              <p>提供する前に双方的を確認し合う時間を大切にしています。</p>
+              <p>お会いする段階までやりとりが進んだ場合、精子提供に不純な動機がないか、しっかり確認させていただきます。</p>
             </div>
           </div>
         </div>
