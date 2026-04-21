@@ -229,6 +229,12 @@ export default function Home() {
               </div>
             </div>
           </div>
+            <div className={styles.processStep}>
+              <div className={styles.stepNumber}>5</div>
+              <div className={styles.stepContent}>
+                <h3>2回目で受精とならなかった場合、3回目と予定を立てることになります。</h3>
+              </div>
+            </div>
         </div>
       </section>
 
