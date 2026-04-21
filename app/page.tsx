@@ -204,7 +204,7 @@ export default function Home() {
               <div className={styles.stepNumber}>1</div>
               <div className={styles.stepContent}>
                 <h3>ご依頼フォームへの入力と僕への送信</h3>
-                <p>通的フォームまたはSNSから気軽にお問い合わせください。初步的なご質問にもお答えします。</p>
+                <p>このセクションの下にあるフォームへご入力後、送信ボタンを押してください。</p>
               </div>
             </div>
             <div className={styles.processStep}>
