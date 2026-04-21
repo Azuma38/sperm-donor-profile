@@ -218,7 +218,7 @@ export default function Home() {
               <div className={styles.stepNumber}>3</div>
               <div className={styles.stepContent}>
                 <h3>カフェなどで軽く顔合わせし、ご本人確認</h3>
-                <p>coffee shop など公共の場所で、お互いの希望や条件についてお話しましょう。</p>
+                <p>ゆうまがご提出いただいた内容ややり取りと照らし合わせ、齟齬がないか確認させていただきます。</p>
               </div>
             </div>
             <div className={styles.processStep}>
