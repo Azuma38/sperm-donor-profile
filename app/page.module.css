@@ -453,3 +453,109 @@
   from { opacity: 0; transform: translateY(28px); }
   to { opacity: 1; transform: translateY(0); }
 }
+
+/* ─── Conditions ─── */
+.conditions {
+  background: #FDF8F3;
+}
+
+.conditionNote {
+  background: linear-gradient(135deg, #E8C4B8, #F5EDE4);
+  border-radius: 20px;
+  padding: 28px 32px;
+  margin-bottom: 48px;
+  border-left: 4px solid #8B6F5C;
+}
+
+.conditionNote p {
+  font-size: 0.95rem;
+  color: #4A3728;
+  line-height: 2;
+  font-weight: 400;
+}
+
+.conditionList {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.conditionItem {
+  display: flex;
+  align-items: flex-start;
+  gap: 16px;
+  background: #F5EDE4;
+  border-radius: 16px;
+  padding: 20px 24px;
+}
+
+.conditionCheck {
+  width: 32px;
+  height: 32px;
+  background: #A8B89E;
+  color: #fff;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.85rem;
+  font-weight: 700;
+  flex-shrink: 0;
+}
+
+.conditionText {
+  font-size: 0.95rem;
+  color: #4A3728;
+  line-height: 1.8;
+}
+
+.conditionText strong {
+  font-weight: 600;
+}
+
+.conditionText em {
+  color: #8B6F5C;
+  font-style: normal;
+  font-weight: 500;
+}
+
+/* ─── Checkpoints ─── */
+.checkpoints {
+  background: #F5EDE4;
+}
+
+.checkpointList {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.checkpointItem {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  background: #FDF8F3;
+  border-radius: 16px;
+  padding: 24px 28px;
+}
+
+.checkpointIcon {
+  width: 44px;
+  height: 44px;
+  background: #4A3728;
+  color: #fff;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1rem;
+  font-weight: 600;
+  font-family: 'Noto Serif JP', serif;
+  flex-shrink: 0;
+}
+
+.checkpointItem p {
+  font-size: 1rem;
+  color: #4A3728;
+  line-height: 1.7;
+}
