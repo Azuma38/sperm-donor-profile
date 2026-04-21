@@ -33,8 +33,8 @@ export default function Home() {
             </div>
             <div className={styles.valueCard}>
               <div className={styles.valueIcon}>🛡️</div>
-              <h3>安全・安心を最優先</h3>
-              <p>双方の安全と诚信を最優先に、誠実なプロセスを提供します。</p>
+              <h3>安全・安心の確認</h3>
+              <p>提供する前に双方的を確認し合う時間を大切にしています。</p>
             </div>
           </div>
         </div>
