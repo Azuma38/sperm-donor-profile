@@ -30,8 +30,8 @@ export default function Home() {
             </div>
             <div className={styles.valueCard}>
               <div className={styles.valueIcon}>🔍</div>
-              <h3>透明性の確保</h3>
-              <p>健康状態・検査結果・身元情報を可能な範囲で開示し、信頼関係を構築します。</p>
+              <h3>健康状態の事前確認</h3>
+              <p>シリンジ法、タイミング法のいずれでも事前に検査結果を確認させていただきます。</p>
             </div>
             <div className={styles.valueCard}>
               <div className={styles.valueIcon}>🛡️</div>
