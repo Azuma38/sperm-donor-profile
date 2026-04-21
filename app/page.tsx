@@ -92,7 +92,7 @@ export default function Home() {
                 <h3>健康状態</h3>
                 <div className={styles.detailTags}>
                   <span className={styles.detailTag}>健康状態: 極めて良好</span>
-                  <span className={styles.detailTag}>契烟: 経験もない</span>
+                  <span className={styles.detailTag}>契煙: 経験もない</span>
                   <span className={styles.detailTag}>飲酒: 最後に飲んだのは25歳の誕生日くらい</span>
                   <span className={styles.detailTag}>運動習慣: あり</span>
                   <span className={styles.detailTag}>遺伝性疾患: なし</span>
