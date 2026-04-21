@@ -107,10 +107,6 @@ export default function Home() {
                 </div>
               </div>
 
-              <div className={styles.detailGroup}>
-                </div>
-              </div>
-
               <div className={styles.profileMessage}>
                 <h3>提供者からのメッセージ</h3>
                 <p>
