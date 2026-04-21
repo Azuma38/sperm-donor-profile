@@ -224,7 +224,7 @@ export default function Home() {
             <div className={styles.processStep}>
               <div className={styles.stepNumber}>4</div>
               <div className={styles.stepContent}>
-                <h3>双方の準備・確認</h3>
+                <h3>精子提供のためにお会いする (2回目)</h3>
                 <p>双方的合意形成を優先しながら、次のステップ進みます。あなたのペースを優先します。</p>
               </div>
             </div>
