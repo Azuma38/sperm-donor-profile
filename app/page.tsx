@@ -19,7 +19,7 @@ export default function Home() {
         <div className={styles.sectionInner}>
           <span className={styles.sectionLabel}>About this service</span>
           <h2>精子提供に対する姿勢</h2>
-          <p className={styles.sectionIntro}>精子提供に対する姿勢について</p>
+          <p className={styles.sectionIntro}></p>
           <div className={styles.valuesGrid}>
             <div className={styles.valueCard}>
               <div className={styles.valueIcon}>❤️</div>
