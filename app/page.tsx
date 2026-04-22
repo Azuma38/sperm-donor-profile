@@ -238,6 +238,12 @@ export default function Home() {
         </div>
       </section>
 
+      <div style={{ textAlign: 'center', marginTop: '20px' }}>
+        <a href="/disclaimer" className={styles.btnWhite}>
+          免責事項を確認する
+        </a>
+      </div>
+
       {/* ── FAQ ── */}
       <section className={styles.faq}>
         <div className={styles.sectionInner}>
