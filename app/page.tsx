@@ -61,13 +61,7 @@ export default function Home() {
 
           <div className={styles.profileLayout}>
             <div className={styles.profilePhotoArea}>
-              <div className={styles.profilePhotoPlaceholder}>
-                <span>📷</span>
-                <small>写真はありません</small>
-              </div>
-              <p className={styles.photoNote}>
-                ※ 顔写真のご用意はありません。※ 詳細なプロフィール情報をお届けします。
-              </p>
+              <img src="/profile-photo.jpg" alt="ゆうま" style={{ maxWidth: '100%', borderRadius: '8px' }} />
             </div>
 
             <div className={styles.profileDetails}>
