@@ -4,7 +4,7 @@ export default function Disclaimer() {
   return (
     <div className={styles.page}>
       <section className={styles.hero}>
-        <h1>免责事項</h1>
+        <h1>免責事項</h1>
         <p className={styles.heroSub}>精子提供サービスご利用前に必ずお読みください</p>
       </section>
 
@@ -30,7 +30,7 @@ export default function Disclaimer() {
             <div className={styles.valueCard}>
               <div className={styles.valueIcon}>📋</div>
               <h3>同意のお願い</h3>
-              <p>精子提供依頼を申し込まれた時点で、上記免责事項の全てに同意したものとみなします。新しい生命を生み出すことについて、全ての方々が慎重に考えて行動されることをお願いします。</p>
+              <p>精子提供依頼を申し込まれた時点で、上記免責事項の全てに同意したものとみなします。新しい生命を生み出すことについて、全ての方々が慎重に考えて行動されることをお願いします。</p>
             </div>
           </div>
         </div>
