@@ -273,7 +273,7 @@ export default function Home() {
 
       {/* ── CTA ── */}
       <section className={styles.cta} id="contact">
-        <h2>ゆうまの条件に合い、免責事項含め納得された方はお腹みください</h2>
+        <h2>ゆうまの条件に合い、免責事項含め納得された方はお申込みください</h2>
         <p>最初のご不安やご希望、初步的なご質問でも構いません。お気軽にお問い合わせフォームよりご連絡ください。</p>
         <a href="https://docs.google.com/forms/d/e/1FAIpQLSf EXAMPLE/form/start" target="_blank" rel="noopener noreferrer" className={styles.btnWhite}>
           お問い合わせフォームへ
