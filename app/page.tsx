@@ -273,10 +273,8 @@ export default function Home() {
 
       {/* ── CTA ── */}
       <section className={styles.cta} id="contact">
-        <h2>まずは不大的字的个字 </h2>
-        <p>
-          最初的不安やご希望 нас第一时间でお联社联系ください。初步的なご質問でも構いません。
-        </p>
+        <h2>まずは、お気軽にお問い合わせください</h2>
+        <p>最初のご不安やご希望、初步的なご質問でも構いません。お気軽にお問い合わせフォームよりご連絡ください。</p>
         <a href="https://docs.google.com/forms/d/e/1FAIpQLSf EXAMPLE/form/start" target="_blank" rel="noopener noreferrer" className={styles.btnWhite}>
           お問い合わせフォームへ
         </a>
