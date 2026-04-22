@@ -239,7 +239,7 @@ export default function Home() {
       </section>
 
       <div style={{ textAlign: 'center', marginTop: '20px' }}>
-        <a href="/disclaimer" className={styles.btnWhite}>
+        <a href="/disclaimer" className={styles.btnSecondary}>
           免責事項を確認する
         </a>
       </div>
@@ -274,7 +274,7 @@ export default function Home() {
       <section className={styles.cta} id="contact">
         <h2>ゆうまの条件に合い、免責事項含め納得された方はお申込みください</h2>
         <p>最初のご不安やご希望、初步的なご質問でも構いません。お気軽にお問い合わせフォームよりご連絡ください。</p>
-        <a href="https://docs.google.com/forms/d/e/1FAIpQLSf EXAMPLE/form/start" target="_blank" rel="noopener noreferrer" className={styles.btnWhite}>
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSf EXAMPLE/form/start" target="_blank" rel="noopener noreferrer" className={styles.btnSecondary}>
           お問い合わせフォームへ
         </a>
       </section>
