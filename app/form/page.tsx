@@ -30,6 +30,14 @@ export default function Form() {
             </div>
 
             <div className={styles.formGroup}>
+              <label htmlFor="email">Eメールアドレス</label>
+              <input type="email" id="email" name="email" placeholder="example@mail.com" />
+              <p className={styles.formNote}>
+                ＊念のためお伝えいただいております。基本はこちらからメールすることはございません。
+              </p>
+            </div>
+
+            <div className={styles.formGroup}>
               <label>提供方法はどちらを希望されていますか？</label>
               <div className={styles.radioGroup}>
                 <label className={styles.radioLabel}>
