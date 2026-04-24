@@ -123,7 +123,7 @@ export default function Form() {
             </div>
 
             <div className={styles.formGroup}>
-              <label htmlFor="message">現在のご状況、ご動機、ご意志を丁寧に以下に記載ください <span style={{color: '#c00'}}>＊</span></label>
+              <label htmlFor="message">現在のご状況、ご動機、ご意志を詳しく以下に記載ください <span style={{color: '#c00'}}>＊</span></label>
               <textarea id="message" name="message" required rows={6} />
             </div>
 
