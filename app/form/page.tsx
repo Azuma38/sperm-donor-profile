@@ -38,7 +38,7 @@ export default function Form() {
             </div>
 
             <div className={styles.formGroup}>
-              <label>提供方法はどちらを希望されていますか？</label>
+              <label>提供方法はどちらを希望されていますか？ <span style={{color: '#c00'}}>＊</span></label>
               <div className={styles.radioGroup}>
                 <label className={styles.radioLabel}>
                   <input type="radio" name="method" value="syringe" required />
@@ -58,7 +58,7 @@ export default function Form() {
 
             <div className={styles.formGroup}>
               <p className={styles.consent}>
-                ご依頼送信ボタンを押すことで免責事項にも同意したことになります。しっかり確認されましたか？
+                ご依頼送信ボタンを押すことで免責事項にも同意したことになる。しっかり確認されましたか？ <span style={{color: '#c00'}}>＊</span>
               </p>
               <div className={styles.consentRadio}>
                 <label className={styles.radioLabel}>
