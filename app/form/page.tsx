@@ -60,7 +60,7 @@ export default function Form() {
 
             <div className={styles.formGroup}>
               <p className={styles.consent}>
-                ご依頼送信ボタンを押すことで免責事項にも同意したことになる。しっかり確認されましたか？ <span style={{color: '#c00'}}>＊</span>
+                ご依頼送信ボタンを押すことで免責事項にも同意したことになるます。しっかり確認されましたか？ <span style={{color: '#c00'}}>＊</span>
               </p>
               <div className={styles.consentRadio}>
                 <label className={styles.radioLabel}>
