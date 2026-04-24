@@ -300,7 +300,7 @@ export default function Home() {
             </details>
             <details className={styles.faqItem}>
               <summary>匿名での提供は可能ですか？</summary>
-              <p>可能ありますが、これは仕事のため僕には守秘義務がございます。心配はご無用です。いずれにせよ、僕がご依頼者さんに連絡するのは西洋占星術のホロスコープ情報をお渡しるところまでとなります。</p>
+              <p>可能はありませんが、これは仕事のため僕には守秘義務がございます。心配はご無用です。いずれにせよ、僕がご依頼者さんに連絡するのは西洋占星術のホロスコープ情報をお渡しるところまでとなります。</p>
             </details>
             <details className={styles.faqItem}>
               <summary>第二子を依頼することは可能ですか？</summary>
