@@ -163,6 +163,16 @@ export default function Home() {
         </div>
       </section>
 
+      {/* ── Service Area ── */}
+      <section className={styles.serviceArea}>
+        <div className={styles.sectionInner}>
+          <span className={styles.sectionLabel}>Service Area</span>
+          <h2>提供可能地域</h2>
+          <p>東京都、東京寄りの神奈川県、東京寄りの千葉県</p>
+          <p className={styles.formNote}>＊これらに該当せずでも僕からの提供を希望される場合は、ご依頼者様に東京まで来ていただくことになります。</p>
+        </div>
+      </section>
+
       {/* ── Meeting Checkpoints ── */}
       <section className={styles.checkpoints}>
         <div className={styles.sectionInner}>

@@ -652,3 +652,22 @@
   color: #4A3728;
   transform: translateY(-2px);
 }
+
+.serviceArea {
+  background: #faf8f5;
+  padding: 80px 24px;
+  text-align: center;
+}
+
+.serviceArea h2 {
+  font-family: 'Noto Serif JP', serif;
+  font-size: clamp(1.5rem, 3vw, 2rem);
+  color: #4A3728;
+  margin-bottom: 16px;
+}
+
+.serviceArea p {
+  color: #666;
+  font-size: 1rem;
+  margin-bottom: 8px;
+}
