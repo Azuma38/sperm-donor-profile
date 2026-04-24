@@ -173,7 +173,7 @@ export default function Home() {
           <div className={styles.checkpointList}>
             <div className={styles.checkpointItem}>
               <div className={styles.checkpointIcon}>1</div>
-              <p>DMでやり取りし伝えられた内容と不一致がないか</p>
+              <p>メッセージでやり取りし伝えられた内容と不一致がないか</p>
             </div>
             <div className={styles.checkpointItem}>
               <div className={styles.checkpointIcon}>2</div>
