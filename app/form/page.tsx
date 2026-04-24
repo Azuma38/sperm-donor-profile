@@ -13,7 +13,7 @@ export default function Form() {
           <form className={styles.form}>
             <div className={styles.formGroup}>
               <label htmlFor="name">お名前（カタカナ可・苗字不要）</label>
-              <input type="text" id="name" name="name" placeholder="名前" />
+              <input type="text" id="name" name="name" required placeholder="名前" />
             </div>
 
             <div className={styles.formGroup}>
@@ -23,7 +23,7 @@ export default function Form() {
 
             <div className={styles.formGroup}>
               <label htmlFor="phone">携帯電話番号</label>
-              <input type="tel" id="phone" name="phone" placeholder="080-1234-5678" />
+              <input type="tel" id="phone" name="phone" required placeholder="080-1234-5678" />
               <p className={styles.formNote}>
                 ＊ご自身の携帯電話番号でWhatsAppという無料アプリに登録ください。こちらからのご連絡はWhatsAppからします。
               </p>
@@ -31,7 +31,7 @@ export default function Form() {
 
             <div className={styles.formGroup}>
               <label htmlFor="email">Eメールアドレス</label>
-              <input type="email" id="email" name="email" placeholder="example@mail.com" />
+              <input type="email" id="email" name="email" required placeholder="example@mail.com" />
               <p className={styles.formNote}>
                 ＊念のためお伝えいただいております。基本はこちらからメールすることはございません。
               </p>
@@ -41,7 +41,7 @@ export default function Form() {
               <label>提供方法はどちらを希望されていますか？</label>
               <div className={styles.radioGroup}>
                 <label className={styles.radioLabel}>
-                  <input type="radio" name="method" value="syringe" />
+                  <input type="radio" name="method" value="syringe" required />
                   <span>シリンジ法</span>
                 </label>
                 <label className={styles.radioLabel}>
@@ -53,7 +53,7 @@ export default function Form() {
 
             <div className={styles.formGroup}>
               <label htmlFor="message">現在のご状況、ご動機、ご意志を丁寧に以下に記載ください</label>
-              <textarea id="message" name="message" rows={6}  />
+              <textarea id="message" name="message" required rows={6}  />
             </div>
 
             <div className={styles.formGroup}>
@@ -62,7 +62,7 @@ export default function Form() {
               </p>
               <div className={styles.consentRadio}>
                 <label className={styles.radioLabel}>
-                  <input type="radio" name="consent" value="yes" />
+                  <input type="radio" name="consent" value="yes" required />
                   <span>はい</span>
                 </label>
                 <label className={styles.radioLabel}>
