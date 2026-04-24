@@ -295,20 +295,16 @@ export default function Home() {
           <h2>よくあるご質問</h2>
           <div className={styles.faqList}>
             <details className={styles.faqItem}>
-              <summary>精子提供は法的に安全ですか？</summary>
-              <p>日本では精子提供そのものは違法ではありません。两人で十分な話し合いの上で、法的にも問題のない形を探ります。</p>
-            </details>
-            <details className={styles.faqItem}>
-              <summary>健康証明書はどこで手に入りますか？</summary>
-              <p>医療機関での検査結果をお持ちしています。每年最新の検査を実施しています。</p>
+              <summary>出産後は出生情報を渡し、西洋占星術のホロスコープ情報を受け取った後も私からご連絡は可能ですか？</summary>
+              <p>これは僕にとって仕事であり、僕がお子様に愛を注げるのは西洋占星術のホロスコープ情報をお渡しするところまでとなります。</p>
             </details>
             <details className={styles.faqItem}>
               <summary>匿名での提供は可能ですか？</summary>
-              <p>はい、匿名での提供をご希望の場合は、的身分情報を保密的に送ることもできます。詳細な条件についてはお気に入联系方式ください。</p>
+              <p>可能ありますが、これは仕事のため僕には守秘義務がございます。心配はご無用です。いずれにせよ、僕がご依頼者さんに連絡するのは西洋占星術のホロスコープ情報をお渡しるところまでとなります。</p>
             </details>
             <details className={styles.faqItem}>
-              <summary>報酬はどれくらいですか？</summary>
-              <p>交通費・検査費用などの実費はお願いします。高い报酬は考えていません。</p>
+              <summary>第二子を依頼することは可能ですか？</summary>
+              <p>可能です。第二子であっても報酬表通りとなります。</p>
             </details>
           </div>
         </div>
