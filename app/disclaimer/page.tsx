@@ -14,7 +14,7 @@ export default function Disclaimer() {
             <div className={styles.valueCard}>
               <div className={styles.valueIcon}>⚠️</div>
               <h3>金銭的・情緒的サポートについて</h3>
-              <p>精子提供者在籍中および出産後における、妊娠中・出産後の金銭的・情緒的なサポートは一切できません。精子提供は報酬を受け取って提供するものであり、子供の養育や生活に関する経済的責任は負いません。</p>
+              <p>精子提供後、妊娠中・出産後の金銭的・情緒的なサポートは一切できません。精子提供は報酬を受け取って提供するものであり、子供の養育や生活に関する経済的責任は負いません。</p>
             </div>
             <div className={styles.valueCard}>
               <div className={styles.valueIcon}>🚫</div>
