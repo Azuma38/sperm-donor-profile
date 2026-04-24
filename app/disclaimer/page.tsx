@@ -10,7 +10,6 @@ export default function Disclaimer() {
 
       <section className={styles.values}>
         <div className={styles.sectionInner}>
-          <h2>免责事項</h2>
           <div className={styles.valuesGrid}>
             <div className={styles.valueCard}>
               <div className={styles.valueIcon}>⚠️</div>
