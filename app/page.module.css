@@ -639,3 +639,16 @@
 .compensationRemarks p {
   margin-bottom: 8px;
 }
+
+/* CTA button - white text on dark background */
+.cta .btnSecondary {
+  background: transparent;
+  color: #fff;
+  border: 2px solid #fff;
+}
+
+.cta .btnSecondary:hover {
+  background: #fff;
+  color: #4A3728;
+  transform: translateY(-2px);
+}
