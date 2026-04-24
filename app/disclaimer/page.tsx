@@ -24,7 +24,7 @@ export default function Disclaimer() {
             <div className={styles.valueCard}>
               <div className={styles.valueIcon}>👶</div>
               <h3>子供の成長について</h3>
-              <p>精子提供後に生まれた子の健康的・精神的な発育に関する有任何の問題に対して、一切関与できません。子供の養育、教育、健康管理等に関しては、全て提供を受けたお母様の責任において行ってください。</p>
+              <p>精子提供後に生まれた子の健康的・精神的な発育に関するの問題に対して、一切関与できません。子供の養育、教育、健康管理等に関しては、全て提供を受けたお母様の責任において行ってください。</p>
             </div>
             <div className={styles.valueCard}>
               <div className={styles.valueIcon}>📋</div>
