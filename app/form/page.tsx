@@ -45,7 +45,7 @@ export default function Form() {
 
             <div className={styles.formGroup}>
               <label htmlFor="message">現在のご意志を丁寧に以下に記載ください</label>
-              <textarea id="message" name="message" rows={6} placeholder="您的希望や状況をお気軽にお描きください..." />
+              <textarea id="message" name="message" rows={6}  />
             </div>
 
             <div className={styles.formGroup}>
