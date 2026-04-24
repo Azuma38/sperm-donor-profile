@@ -1,3 +1,5 @@
+'use client';
+
 import styles from "./page.module.css";
 
 export default function Form() {
@@ -10,7 +12,7 @@ export default function Form() {
 
       <section className={styles.formSection}>
         <div className={styles.sectionInner}>
-          <form className={styles.form}>
+          <form className={styles.form} onSubmit={(e) => { const form = e.currentTarget; const consent = form.querySelector('input[name="consent"]:checked') as HTMLInputElement | null; if (!consent || consent.value !== 'yes') { e.preventDefault(); alert('免责事項の全てに同意がない場合は、送信できません'); } }}>
             <div className={styles.formGroup}>
               <label htmlFor="name">お名前（カタカナ可・苗字不要） <span style={{color: '#c00'}}>＊</span></label>
               <input type="text" id="name" name="name" required placeholder="名前" />
