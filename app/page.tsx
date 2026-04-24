@@ -311,7 +311,7 @@ export default function Home() {
       <section className={styles.cta} id="contact">
         <h2>条件に合い、免責事項含め納得された方はご依頼ください</h2>
         <a href="https://docs.google.com/forms/d/e/1FAIpQLSf EXAMPLE/form/start" target="_blank" rel="noopener noreferrer" className={styles.btnSecondary}>
-          お問い合わせフォームへ
+          <delete_file>フォームへ
         </a>
       </section>
 
