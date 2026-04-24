@@ -277,7 +277,7 @@ export default function Home() {
             </div>
             <div className={styles.compensationRow}>
               <div className={styles.compensationLabel}>3回目提供</div>
-              <div className={styles.compensationAmount}>1万1,000円 + ホテル代</div>
+              <div className={styles.compensationAmount}>2回目で受精とならなかった場合、1万1,000円 + ホテル代</div>
             </div>
           </div>
           <div className={styles.compensationRemarks}>
