@@ -248,6 +248,47 @@ export default function Home() {
         </a>
       </div>
 
+      {/* ── Compensation Table ── */}
+      <section className={styles.compensation}>
+        <div className={styles.sectionInner}>
+          <h2>報酬表</h2>
+          <p className={styles.compensationIntro}>
+            僕のこれまでの人生への自己投資と現在の仕事を考慮すると、50万円でも安いのでは？ と個人的にも思っています。<br />
+            ただ、個人間の相場から以下のように割安で提供させていただきます。
+          </p>
+          <p className={styles.paymentNote}>
+            お支払いは都お会いした際の早い段階で現金を封筒にて手渡し厳守となります。
+          </p>
+          <div className={styles.compensationTable}>
+            <div className={styles.compensationRow}>
+              <div className={styles.compensationLabel}>一度目にお会いする際</div>
+              <div className={styles.compensationAmount}>1,000円</div>
+              <div className={styles.compensationNote}>(交通費 + 仕事の調整률이含まれます)</div>
+            </div>
+            <div className={styles.compensationNote}>
+              一度目にお会いした際に、精子提供決定となった場合(別日を調整)：
+            </div>
+            <div className={styles.compensationRow}>
+              <div className={styles.compensationLabel}>1回目提供</div>
+              <div className={styles.compensationAmount}>5万1,000円 + ホテル代</div>
+            </div>
+            <div className={styles.compensationRow}>
+              <div className={styles.compensationLabel}>2回目提供</div>
+              <div className={styles.compensationAmount}>1回目で受精とならなかった場合、2万1,000円 + ホテル代</div>
+            </div>
+            <div className={styles.compensationRow}>
+              <div className={styles.compensationLabel}>3回目提供</div>
+              <div className={styles.compensationAmount}>1万1,000円 + ホテル代</div>
+            </div>
+          </div>
+          <div className={styles.compensationRemarks}>
+            <p>＊報酬分は現金を封筒に入れて僕にお渡しいただきますが、ホテル代はご依頼主様の都合のよい手段でロビーにてください。</p>
+            <p>＊どの回でもご依頼いただいた方のご自宅であれば、提供のためのホテル代は不要となります。</p>
+            <p>＊2回目以降は別のドナーを検討するというのはご依頼主さま次第となります。強制ではありません。</p>
+          </div>
+        </div>
+      </section>
+
       {/* ── FAQ ── */}
       <section className={styles.faq}>
         <div className={styles.sectionInner}>

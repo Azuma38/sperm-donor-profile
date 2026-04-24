@@ -567,3 +567,75 @@
   max-width: 100%;
   text-align: left;
 }
+
+/* ─── Compensation Table ─── */
+.compensation {
+  background: #f9f5f0;
+  padding: 60px 0;
+}
+.compensation .sectionInner {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 24px;
+}
+.compensation h2 {
+  font-size: 2rem;
+  color: #4A3728;
+  margin-bottom: 20px;
+  text-align: center;
+}
+.compensationIntro {
+  font-size: 1rem;
+  color: #5a4a3a;
+  line-height: 1.8;
+  margin-bottom: 12px;
+}
+.paymentNote {
+  font-size: 0.95rem;
+  color: #c0392b;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+.compensationTable {
+  border: 2px solid #4A3728;
+  border-radius: 8px;
+  overflow: hidden;
+  margin-bottom: 20px;
+}
+.compensationRow {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 14px 20px;
+  border-bottom: 1px solid #e0d5c5;
+  gap: 16px;
+}
+.compensationRow:last-child {
+  border-bottom: none;
+}
+.compensationLabel {
+  font-size: 0.95rem;
+  color: #4A3728;
+  font-weight: 600;
+  flex-shrink: 0;
+}
+.compensationAmount {
+  font-size: 0.95rem;
+  color: #2c1810;
+  font-weight: 700;
+  text-align: right;
+}
+.compensationNote {
+  padding: 8px 20px;
+  font-size: 0.85rem;
+  color: #6a5a4a;
+  background: #f0e8dc;
+}
+.compensationRemarks {
+  font-size: 0.85rem;
+  color: #5a4a3a;
+  line-height: 1.8;
+}
+.compensationRemarks p {
+  margin-bottom: 8px;
+}
