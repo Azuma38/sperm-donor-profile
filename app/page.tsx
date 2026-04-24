@@ -253,7 +253,7 @@ export default function Home() {
             僕のこれまでの人生への自己投資と現在の仕事を考慮すると、50万円でも安いのでは？ と個人的には思っています。ただ、個人間の相場から以下のように割安で提供させていただきます。
           </p>
           <p className={styles.paymentNote}>
-            お支払いは都お会いした際の早い段階で現金を封筒にて手渡し厳守となります。
+            お支払いは都度お会いした際の早い段階で現金を封筒にて手渡し厳守となります。
           </p>
           <div className={styles.compensationTable}>
             <div className={styles.compensationRow}>
