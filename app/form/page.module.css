@@ -128,3 +128,45 @@
   background: #6b5340;
   transform: translateY(-2px);
 }
+
+.successMessage {
+  text-align: center;
+  padding: 60px 24px;
+}
+
+.successMessage h2 {
+  font-family: 'Noto Serif JP', serif;
+  font-size: 1.8rem;
+  color: #4A3728;
+  margin-bottom: 16px;
+}
+
+.successMessage p {
+  color: #666;
+  margin-bottom: 32px;
+}
+
+.errorMessage {
+  background: #fee;
+  border: 2px solid #c00;
+  color: #c00;
+  padding: 16px;
+  border-radius: 12px;
+  margin-bottom: 24px;
+  text-align: center;
+}
+
+.btnPrimary {
+  display: inline-block;
+  background: #4A3728;
+  color: #fff;
+  padding: 16px 32px;
+  border-radius: 50px;
+  text-decoration: none;
+  font-weight: 500;
+  transition: background 0.3s ease;
+}
+
+.btnPrimary:hover {
+  background: #6b5340;
+}
