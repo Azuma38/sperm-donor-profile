@@ -262,7 +262,7 @@ export default function Home() {
             <div className={styles.compensationRow}>
               <div className={styles.compensationLabel}>一度目にお会いする際</div>
               <div className={styles.compensationAmount}>1,000円</div>
-              <div className={styles.compensationNote}>(交通費 + 仕事の調整率が含まれます)</div>
+              <div className={styles.compensationNote}>(交通費 + 仕事の調整費力が含まれます)</div>
             </div>
             <div className={styles.compensationNote}>
               一度目にお会いした際に、精子提供決定となった場合(別日を調整)：
