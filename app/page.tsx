@@ -239,7 +239,7 @@ export default function Home() {
         </div>
       </section>
 
-      <div style={{ textAlign: 'center', marginTop: '-100px' }}>
+      <div style={{ textAlign: 'center', marginTop: '-30px' }}>
         <a href="/disclaimer" className={styles.btnSecondary}>
           免責事項を確認する
         </a>
