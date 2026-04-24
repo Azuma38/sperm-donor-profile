@@ -318,7 +318,7 @@ export default function Home() {
       {/* ── Footer ── */}
       <footer>
         <p>© 2026 精子提供者プロフィールページ</p>
-        <p><a href="/disclaimer" style={{color: '#666', fontSize: '14px'}}>免責事項</a></p>
+        <p><a href="/disclaimer" style={{color: '#666', fontSize: '14px'}}></a></p>
       </footer>
     </div>
   );
