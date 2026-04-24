@@ -53,6 +53,7 @@
 
 .formGroup input[type="text"],
 .formGroup input[type="tel"],
+.formGroup input[type="email"],
 .formGroup textarea {
   padding: 14px 18px;
   border: 2px solid #d4c4b0;
@@ -65,6 +66,7 @@
 
 .formGroup input[type="text"]:focus,
 .formGroup input[type="tel"]:focus,
+.formGroup input[type="email"]:focus,
 .formGroup textarea:focus {
   outline: none;
   border-color: #8B6F5C;
