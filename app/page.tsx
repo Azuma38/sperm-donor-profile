@@ -205,7 +205,7 @@ export default function Home() {
               <div className={styles.stepNumber}>2</div>
               <div className={styles.stepContent}>
                 <h3>フォーム内容を確認し、ゆうまがあなたへご連絡</h3>
-                <p>フォーム内容を確認し、ご提出いただいた携帯電話番号へWhatsAppからご連絡します。<br />＊無料のWhatsAppにてやりとりします。</p>
+                <p>フォーム内容を確認し、ご提出いただいた携帯電話番号へWhatsAppからご連絡します。<br />＊無料のWhatsAppにてやりとりします。インストールされていない方はインストールされてから依頼フォームを送信ください。</p>
               </div>
             </div>
             <div className={styles.processStep}>
