@@ -7,10 +7,7 @@ export default function Home() {
       {/* ── Hero ── */}
       <section className={styles.hero}>
         <h1>誠実な精子提供で<br />あなたの希望を叶えます</h1>
-        <div className={styles.heroActions}>
-          <a href="#profile" className={styles.btnPrimary}>プロフィールを見る</a>
-          <a href="#contact" className={styles.btnSecondary}>連絡する</a>
-        </div>
+
       </section>
 
       {/* ── Values ── */}
