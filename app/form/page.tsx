@@ -44,7 +44,7 @@ export default function Form() {
             </div>
 
             <div className={styles.formGroup}>
-              <label htmlFor="message">現在のご意志を丁寧に以下に記載ください</label>
+              <label htmlFor="message">現在のご状況、ご動機、ご意志を丁寧に以下に記載ください</label>
               <textarea id="message" name="message" rows={6}  />
             </div>
 
