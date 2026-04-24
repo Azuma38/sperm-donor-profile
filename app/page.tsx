@@ -241,7 +241,7 @@ export default function Home() {
 
       <div style={{ textAlign: 'center', marginTop: '-180px' }}>
         <a href="/disclaimer" className={styles.btnSecondary}>
-          
+          免責事項を確認する
         </a>
       </div>
 
